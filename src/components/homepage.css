@@ -1,0 +1,40 @@
+.homepage{
+    /* background-color: rgba(0, 255, 170, 0.557); */
+    padding: 2rem;
+}
+
+h1{
+    margin-top: 1rem;
+}
+
+.inputText, .inputNum{
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.055);
+    margin: 0 0.5rem;
+}
+
+.homepage .div1 button{
+    height: 38px;
+    width: 100px;
+    background-color: rgba(0, 0, 0, 0.813);
+    margin: 0 0.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+.item{
+    width: 50%;
+    margin: 1rem auto;
+    border: 1px solid rgba(0, 0, 0, 0.781);
+    border-radius: 6px;
+    padding: 1rem;
+}
+
+.item button{
+    width: 40px;
+    height: 30px;
+    margin: 0 0.5rem;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
